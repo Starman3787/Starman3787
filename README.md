@@ -1,12 +1,12 @@
 :)
-
+<!--
 7D45 37A5 C686 22C2 F554  441C 5415 034B C045 3B37
 
 
 1Starmanks5oJZdrxRHT8zva2MW4c11aE
 
 npub1yghv547k25xx2u454n8vj5vsxdh48ytl0p8s7j8jjyp8e2h5gryqglqadh
-
+-->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Starman3787&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Starman3787&theme=tokyonight)
